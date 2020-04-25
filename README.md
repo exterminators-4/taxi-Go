@@ -1,2 +1,2 @@
 # taxi-Go
-ride sharing taxi app with flutter
+  ride sharing taxi app with Flutter
